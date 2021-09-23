@@ -41,7 +41,6 @@ export const styles = StyleSheet.create({
     height: SCREEN_WIDTH * 0.1,
     width: SCREEN_WIDTH * 0.1,
     borderRadius: 20,
-    backgroundColor: "red",
     alignItems: "center",
   },
   heartIcon: {
